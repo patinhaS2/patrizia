@@ -1,0 +1,60 @@
+<head>
+<link rel="stylesheet" href="styles.css">
+<title>Aluraflix</title>
+</head>
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+}body {
+    color: rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    margin: 0px;
+    font-family: "Playwrite CU", cursive;
+}
+
+header {
+    border-bottom: solid 2px rgb(240, 234, 234);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+section {
+    background: rgb(74, 116, 231); 
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+/* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  img {
+    height: 200px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+ .categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+  }.categoria-videos img {
+    opacity: 0.5;
+}
